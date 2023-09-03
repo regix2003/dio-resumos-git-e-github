@@ -1,3 +1,4 @@
+
 # DIO | Resumos Git e GitHub
 
 
@@ -23,4 +24,25 @@ git init
 
 git status
 
+git add README.md
+
+git add .
+
+
 ```
+
+## ⚙ Mais comandos gitbash
+
+```
+git commit -m "commit inicial"
+
+git log
+
+git remote add origin https://github.com/regix2003/dio-resumos-git-e-github.git
+
+git push -u origin main
+
+```
+
+📚 Precisa criar um novo repositório no GitHub para poder dar o comando: git remote add origin
+acima!
